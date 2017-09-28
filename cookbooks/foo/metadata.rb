@@ -1,0 +1,7 @@
+name             'foo'
+maintainer       'foo'
+maintainer_email 'foo@foo.com'
+license          'foo'
+description      'foo'
+long_description 'foo'
+version          '0.0.0'
