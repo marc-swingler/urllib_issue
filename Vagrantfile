@@ -14,3 +14,4 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 		v.memory = 4096
 	end
 end
+
